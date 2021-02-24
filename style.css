@@ -240,7 +240,7 @@ header .header-in-apply-btn p {
 header .header-in-apply-btn figure {
   width: 110px;
   height: 82px;
-  background-image: url("./XD IMGS/apply-free.png");
+  background-image: url("./images/apply-free.png");
 }
 
 header .header-flexbox {
@@ -538,7 +538,7 @@ main .main-in {
 main .main-in-tp-top-img {
   width: 100%;
   height: 100vh;
-  background-image: url("./XD IMGS/top-bg.jpg");
+  background-image: url("./images/top-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: -webkit-box;
@@ -681,7 +681,7 @@ main .main-in-tvcm video {
 
 main .main-in-case-study {
   position: relative;
-  background-image: url("./XD IMGS/sunday-bg.jpg");
+  background-image: url("./images/sunday-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: -webkit-box;
@@ -865,7 +865,7 @@ main .main-in-flow {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("./XD IMGS/border_bg.png");
+  background-image: url("./images/border_bg.png");
 }
 
 main .main-in-flow img.main-title-img {
@@ -964,7 +964,7 @@ main .main-in-service-areas {
           align-items: center;
   padding-top: 66px;
   padding-bottom: 90px;
-  background-image: url("./XD IMGS/border_bg.png");
+  background-image: url("./images/border_bg.png");
   z-index: -1;
 }
 
@@ -1751,7 +1751,7 @@ main .main-in-content-main-wrapper-reason-item-right p {
 }
 
 main .main-in-content-main-wrapper-reason-item.pr-str-background {
-  background-image: url("./XD IMGS/border_bg.png");
+  background-image: url("./images/border_bg.png");
 }
 
 @media screen and (max-width: 486px) {
@@ -1911,7 +1911,7 @@ main .main-in-content-main-wrapper-leader-greeting-boxes-right img {
 
 main .main-in-content-main-wrapper-staff-intro {
   padding: 91px 20px 114px 20px;
-  background-image: url("./XD IMGS/border_bg.png");
+  background-image: url("./images/border_bg.png");
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
